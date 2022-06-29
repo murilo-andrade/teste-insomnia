@@ -1,0 +1,21 @@
+_id: req_322886de60374e0885dc1845679f8234
+type: Request
+parentId: wrk_671c9f26fd6e4ce6abaceab13cf263ea
+modified: 1656530546351
+created: 1656530498963
+url: https://www.sandiego.com.br/index-json2.php
+name: JSON Env
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656530498964
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
